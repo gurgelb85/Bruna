@@ -1,3 +1,3 @@
 # Bruna
 URGENT
-Comader execut
+Comander execut
